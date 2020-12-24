@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://coderzh.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+      <title>My New Hugo Site on My New Hugo Site </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://likccc.github.io/</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Dec 2020 16:24:21 +0800</lastBuildDate><atom:link href="http://coderzh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <updated>Wed, 23 Dec 2020 16:24:21 CST</updated>
+    
     <item>
-      <title>Likc</title>
-      <link>http://coderzh.github.io/post/blog/</link>
-      <pubDate>Wed, 23 Dec 2020 16:24:21 +0800</pubDate>
+      <title>Posts</title>
+      <link>http://likccc.github.io/post/</link>
+      <pubDate>Wed, 23 Dec 2020 16:24:21 CST</pubDate>
       
-      <guid>http://coderzh.github.io/post/blog/</guid>
-      <description>你说世间有美景 我说满眼都是你</description>
+      <guid>http://likccc.github.io/post/</guid>
+      <description></description>
     </item>
     
   </channel>
