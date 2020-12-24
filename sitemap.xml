@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://likccc.github.io/categories/</loc>
+    <loc>http://likccc.github.io/post/blog/</loc>
+    <lastmod>2020-12-23T16:24:21+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://likccc.github.io/</loc>
+    <lastmod>2020-12-23T16:24:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://likccc.github.io/post/</loc>
+    <lastmod>2020-12-23T16:24:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://likccc.github.io/categories/</loc>
   </url>
   
   <url>
